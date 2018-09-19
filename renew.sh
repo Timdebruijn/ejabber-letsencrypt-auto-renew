@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/usr/bin/env bash
 # Script om ejabber certificaten automatisch te vernieuwen.
 # Datum: 24 mei 2018 
 # Tim de Bruijn
